@@ -1,0 +1,48 @@
+CRE,City,Site,Site Type,ION,Interface,Used For,Operational State,Address_Mask List,Address
+CA074,Brisbane,CA074_Brisbane,Branch,CA074-SDW-I2K-1,controller,Controller,up,192.168.14.159/24,192.168.14.159
+CA091,Rancho Dominguez,CA091_Rancho Dominguez,Branch,CA091-SDW-I2K-1,controller,Controller,up,192.168.48.159/24,192.168.48.159
+CA097,West Sacramento,CA097_West Sacramento,Branch,CA097-SDW-I2K-1,controller,Controller,up,192.168.54.159/24,192.168.54.159
+CA102,Corona,CA102_Corona,Branch,CA102-SDW-I2K-1,controller,Controller,up,192.168.37.159/24,192.168.37.159
+CA138,Commerce,CA138_Commerce,Branch,CA138-SDW-I2K-1,controller,Controller,up,10.1.56.7/22,10.1.56.7
+CA139,Commerce,CA139_Commerce,Branch,CA139-SDW-I2K-1,controller,Controller,up,10.64.4.7/22,10.64.4.7
+CA142,Bloomington,CA142_Bloomington,Branch,CA142-SDW-I2K-1,controller,Controller,up,10.176.146.7/25,10.176.146.7
+CO019,Denver,CO019_Denver,Branch,CO019-SDW-I2K-1,controller,Controller,up,192.168.47.159/24,192.168.47.159
+FL072,Jacksonville,FL072_Jacksonville,Branch,FL072-SDW-I2K-1,controller,Controller,up,192.168.42.159/24,192.168.42.159
+FL089,Orlando,FL089_Orlando,Branch,FL089-SDW-I2K-1,controller,Controller,up,10.176.162.7/25,10.176.162.7
+GA055,Atlanta,GA055_Atlanta,Branch,GA055-SDW-I2K-1,controller,Controller,up,192.168.94.159/24,192.168.94.159
+GA059,Atlanta,GA059_Atlanta,Branch,GA059-SDW-I2K-1,controller,Controller,up,10.176.34.7/25,10.176.34.7
+IA019,Urbandale,IA019_Urbandale,Branch,IA019-SDW-I2K-1,controller,Controller,up,192.168.34.159/24,192.168.34.159
+IA020,Cedar_Rapids,IA020_Cedar_Rapids,Branch,IA020-SDW-I2K-1,controller,Controller,up,192.168.96.159/24,192.168.96.159
+IL056,Carol Stream,IL056_Carol Stream,Branch,IL056-SDW-I2K-1,controller,Controller,up,10.1.96.7/22,10.1.96.7
+IL057,Elk_Grove_Village,IL057_Elk_Grove_Village,Branch,IL057-SDW-I2K-1,controller,Controller,up,10.213.30.7/24,10.213.30.7
+IL058,Aurora,IL058_Aurora,Branch,IL058-SDW-I2K-1,controller,Controller,up,192.168.32.159/24,192.168.32.159
+IN019,Indianapolis,IN019_Indianapolis,Branch,IN019-SDW-I2K-1,controller,Controller,up,192.168.71.159/24,192.168.71.159
+IN039,Greenwood,IN039_Greenwood,Branch,IN039-SDW-I2K-1,controller,Controller,up,10.176.66.7/25,10.176.66.7
+KY025,Hebron,KY025_Hebron,Branch,KY025-SDW-I2K-1,controller,Controller,up,10.1.84.7/22,10.1.84.7
+KY026,Erlanger,KY026_Erlanger,Branch,KY026-SDW-I2K-1,controller,Controller,up,10.213.23.7/24,10.213.23.7
+MD031,Odenton,MD031_Odenton,Branch,MD031-SDW-I2K-1,controller,Controller,up,10.176.194.7/25,10.176.194.7
+MI028-1,Detroit,MI028-1_Detroit,Branch,MI028-1-SDW-I2K-1,controller,Controller,up,192.168.49.159/24,192.168.49.159
+MI047,Pontiac,MI047_Pontiac,Branch,MI047-SDW-I2K-1,controller,Controller,up,192.168.81.159/24,192.168.81.159
+MN020,Fridley,MN020_Fridley,Branch,MN020-SDW-I2K-1,controller,Controller,up,192.168.74.159/24,192.168.74.159
+MO029,Saint_Louis,MO029_Saint_Louis,Branch,MO029-SDW-I2K-1,controller,Controller,up,192.168.77.159/24,192.168.77.159
+NC055,Charlotte,NC055_Charlotte,Branch,NC055-SDW-I2K-1,controller,Controller,up,192.168.40.159/24,192.168.40.159
+NE021,Lincoln,NE021_Lincoln,Branch,NE021-SDW-I2K-1,controller,Controller,up,192.168.13.159/24,192.168.13.159
+NJ035,Monroe,NJ035_Monroe,Branch,NJ035-SDW-I2K-1,controller,Controller,up,10.176.130.7/25,10.176.130.7
+NV013,Sparks,NV013_Sparks,Branch,NV013-SDW-I2K-1,controller,Controller,up,10.65.4.7/22,10.65.4.7
+NY092,Jericho,NY092_Jericho,Branch,NY092-SDW-I2K-1,controller,Controller,up,192.168.59.159/24,192.168.59.159
+OH032,Grove_City,OH032_Grove_City,Branch,OH032-SDW-I2K-1,controller,Controller,up,192.168.41.159/24,192.168.41.159
+PA033,Reading,PA033_Reading,Branch,PA033-SDW-I2K-1,controller,Controller,up,192.168.44.159/24,192.168.44.159
+PA045,Levittown,PA045_Levittown,Branch,PA045-SDW-I2K-1,controller,Controller,up,192.168.19.159/24,192.168.19.159
+PA050,Reading,PA050_Reading,Branch,PA050-SDW-I2K-1,controller,Controller,up,192.168.69.159/24,192.168.69.159
+PA2,York,PA2_York,Branch,PA2-SDW-I2K-1,controller,Controller,up,10.176.2.7/25,10.176.2.7
+SC008,Duncan,SC008_Duncan,Branch,SC008-SDW-I2K-1,controller,Controller,up,192.168.39.159/24,192.168.39.159
+TN060,LaVergne,TN060_LaVergne,Branch,TN060-SDW-I2K-1,controller,Controller,up,192.168.92.159/24,192.168.92.159
+TX086,Austin,TX086_Austin,Branch,TX086-SDW-I2K-1,controller,Controller,up,192.168.33.159/24,192.168.33.159
+TX115,Grand Prairie,TX115_Grand Prairie,Branch,TX115-SDW-I2K-1,controller,Controller,up,192.168.43.159/24,192.168.43.159
+TX117,Arlington,TX117_Arlington,Branch,TX117-SDW-I2K-1,controller,Controller,up,192.168.45.159/24,192.168.45.159
+TX125,Grapevine,TX125_Grapevine,Branch,TX125-SDW-I2K-1,controller,Controller,up,10.67.4.7/22,10.67.4.7
+UT1,West_Valley_City,UT1_West_Valley_City,Branch,UT1-SDW-I2K-1,controller,Controller,up,10.176.114.7/25,10.176.114.7
+VA031,Ashland,VA031_Ashland,Branch,VA031-SDW-I2K-1,controller,Controller,up,192.168.35.159/24,192.168.35.159
+WA037,Kent,WA037_Kent,Branch,WA037-SDW-I2K-1,controller,Controller,up,10.176.50.7/25,10.176.50.7
+WI017,Madison,WI017_Madison,Branch,WI017-SDW-I2K-1,controller,Controller,up,192.168.62.159/24,192.168.62.159
+WI021,Brown_Deer,WI021_Brown_Deer,Branch,WI021-SDW-I2K-1,controller,Controller,up,192.168.51.159/24,192.168.51.159
