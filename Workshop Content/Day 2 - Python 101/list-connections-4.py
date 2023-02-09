@@ -4,7 +4,7 @@ from netmiko import ConnectHandler
 # set se to the secret password for enable mode
 un = "admin"
 pw = "cisco123!"
-se = "Cisco123!"
+se = "cisco123!"
 ios_type = "cisco_xe"
 ip_addr = "192.168.128.151"
 
